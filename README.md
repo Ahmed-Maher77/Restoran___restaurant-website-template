@@ -68,7 +68,7 @@
 
 ## 👀 Website Preview
 <a href="https://ahmed-maher77.github.io/Restoran___restaurant-website-template/" title="demo">
-  <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
+  <img src="https://github.com/user-attachments/assets/ac5d8025-2689-4019-8b4b-68ecdf39caa8" alt="website preview - UI Mockup" width="400">
 </a>
 
 
@@ -81,7 +81,7 @@
 git clone https://github.com/Ahmed-Maher77/Restoran___restaurant-website-template.git
 
 # Navigate to the project folder
-cd restoran
+cd Restoran___restaurant-website-template
 
 # Open index.html in your browser (No build process required)
 ```
